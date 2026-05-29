@@ -19,7 +19,7 @@ The core experience should be reusable and reskinnable by changing category temp
 ## Key features
 
 ### 1) Record your own collections
-- Create multiple collections (e.g., “Weekend Wines”, “Favorite IPA”, “Date Night Restaurants”, “Family Recipes”).
+- Create multiple collections (e.g., “Weekend Wines”, “Favorite IPAs”, “Date Night Restaurants”, “Family Recipes”).
 - Add items manually or from quick capture flow.
 - Track item status (owned, tried, want to try, archived).
 
